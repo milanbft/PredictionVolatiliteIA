@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+torch
+yfinance
+nasdaq-data-link
+matplotlib
+requests
+plotly
+scikit-learn
